@@ -115,7 +115,7 @@ if (elementoPai) {
       link.id   = cssId;
       link.rel  = 'stylesheet';
       link.type = 'text/css';
-      link.href = 'https://raw.githubusercontent.com/atadeu/template_typebot_instagram/main/style.css';
+      link.href = 'https://github.com/atadeu/template_typebot_instagram/raw/main/style.css';
       link.media = 'all';
       head.appendChild(link);
   }
